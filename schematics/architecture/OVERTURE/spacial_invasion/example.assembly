@@ -1,0 +1,6 @@
+# Create labels like this
+label my_label
+# This is a constant
+const PI 3
+# Also you actually should take a look
+# at the assembly manual entry
