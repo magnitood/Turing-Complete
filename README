@@ -1,0 +1,11 @@
+# Turing Complete Saves
+
+This repository contains my save files for the game Turing Complete
+
+I am uploading it to github because this game is about building a working computer
+from basic logic gates.
+
+Since I am using Wine to run my game under linux, the location of this repo in the filesystem is:
+$WINE_PREFIX/drive_c/users/mag/AppData/Roaming/Godot/app_userdata/Turing Complete
+
+For windows, the path should be the same
